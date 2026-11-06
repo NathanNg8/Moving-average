@@ -1,1 +1,1 @@
-# Moving-average-
+# Moving-average
